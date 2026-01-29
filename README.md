@@ -1,35 +1,35 @@
-Dicionário Simples
-Descrição do Projeto
+# Dicionário Simples
+## Descrição do Projeto
 
 Este projeto consiste em um dicionário simples, desenvolvido com o objetivo de permitir o gerenciamento básico de palavras e traduções. A aplicação oferece funcionalidades essenciais para inserção, remoção, busca e exibição de palavras, além da tradução de textos utilizando o dicionário criado.
 
-Funcionalidades
+## Funcionalidades
 
 O sistema disponibiliza as seguintes opções:
 
-Inserir palavra
+* Inserir palavra
 Permite adicionar novas palavras ao dicionário.
 
-Remover palavra
+* Remover palavra
 Remove uma palavra previamente cadastrada.
 
-Buscar palavra
+* Buscar palavra
 Realiza a busca de uma palavra específica no dicionário.
 
-Exibir dicionário
+* Exibir dicionário
 Mostra todas as palavras armazenadas no dicionário.
 
-Traduzir texto
+* Traduzir texto
 Traduz um texto utilizando as palavras disponíveis no dicionário.
 
-Objetivo
+## Objetivo
 
 O projeto tem como finalidade praticar conceitos básicos de:
 
-Estruturas de dados
+* Estruturas de dados
 
-Manipulação de strings
+* Manipulação de strings
 
-Lógica de programação
+* Lógica de programação
 
-Organização de funcionalidades em um sistema simples
+* Organização de funcionalidades em um sistema simples
